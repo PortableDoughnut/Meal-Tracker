@@ -6,10 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		63CA76B12CBECA4800F43A10 /* FoodTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CA76B02CBECA4800F43A10 /* FoodTableViewController.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		63CA76932CBEC96300F43A10 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -31,7 +27,6 @@
 		63CA767C2CBEC96100F43A10 /* Meal Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Meal Tracker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63CA76922CBEC96300F43A10 /* Meal TrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Meal TrackerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63CA769C2CBEC96300F43A10 /* Meal TrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Meal TrackerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		63CA76B02CBECA4800F43A10 /* FoodTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -93,7 +88,6 @@
 		63CA76732CBEC96100F43A10 = {
 			isa = PBXGroup;
 			children = (
-				63CA76B02CBECA4800F43A10 /* FoodTableViewController.swift */,
 				63CA767E2CBEC96100F43A10 /* Meal Tracker */,
 				63CA76952CBEC96300F43A10 /* Meal TrackerTests */,
 				63CA769F2CBEC96300F43A10 /* Meal TrackerUITests */,
@@ -255,7 +249,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63CA76B12CBECA4800F43A10 /* FoodTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
